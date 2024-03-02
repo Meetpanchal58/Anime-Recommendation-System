@@ -18,6 +18,7 @@ The project is organized into three main steps:
 ### Step 3: Deployment
 - Deployed the recommendation system using Streamlit.
 - Users can input an anime name and click on the "Recommend" button to receive 10 recommended anime along with their posters.
+- Link : https://anime-recommendation-system.streamlit.app/
 
 ## File Structure
 - `data_collection/`: Contains scripts for data collection.

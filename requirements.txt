@@ -2,6 +2,8 @@ numpy
 pandas
 requests
 beautifulsoup4
+aiohttp
+asyncio
 selenium
 streamlit
 scikit-learn
